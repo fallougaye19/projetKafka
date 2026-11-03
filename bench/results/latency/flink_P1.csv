@@ -1,0 +1,2 @@
+moteur,palier,timestamp,nb_mesures,latence_p50_ms,latence_p95_ms
+flink,P1,2026-10-31T02:30:36.807523+00:00,300,10333.28,10566.55

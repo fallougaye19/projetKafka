@@ -1,0 +1,3 @@
+[producer] Connecté à Kafka (kafka:9092)
+[producer] Démarrage : 1000 ev/s pendant 360s (50 magasins, LATE_RATIO=0.0)
+[producer] Terminé : 359999 événements en 360.0s (débit effectif 1000 ev/s)

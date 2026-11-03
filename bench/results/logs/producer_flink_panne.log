@@ -1,0 +1,3 @@
+﻿[producer] Connect├® ├á Kafka (kafka:9092)
+[producer] D├®marrage : 1000 ev/s pendant 500s (50 magasins, LATE_RATIO=0.0)
+[producer] Termin├® : 500000 ├®v├®nements en 500.0s (d├®bit effectif 1000 ev/s)

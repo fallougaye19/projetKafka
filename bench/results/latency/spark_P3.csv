@@ -1,0 +1,2 @@
+moteur,palier,timestamp,nb_mesures,latence_p50_ms,latence_p95_ms
+spark,P3,2026-10-31T03:06:22.539514+00:00,250,11350.95,13371.86
